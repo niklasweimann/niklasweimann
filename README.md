@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently studyng studying **computer science at the [University of Siegen](https://www.uni-siegen.de/start/)**
 
-- 👨‍💻 Currently working at **[LapID_Service](https://www.lapid.de/)**
+- 👨‍💻 Currently working at **[LapID Service GmbH](https://www.lapid.de/)**
 
 - 💬 Ask me about **anything**
 
