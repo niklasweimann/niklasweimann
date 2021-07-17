@@ -15,7 +15,7 @@
 
 - 👨‍💻 Currently working at **[LapID Service GmbH](https://www.lapid.de/)**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything** [@niklasweimann](https://twitter.com/niklasweimann) on [Twitter](https://twitter.com/niklasweimann)
 
 - ⚡ Fun fact **The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.**
 
