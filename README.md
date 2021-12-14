@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nikweimann@gmail.com**
 
-- 🌱 I’m currently studyng studying **computer science at the [University of Siegen](https://www.uni-siegen.de/start/)**
-
 - 👨‍💻 Currently working at **[LapID Service GmbH](https://www.lapid.de/)**
 
 - 💬 Ask me about **anything** [@niklasweimann](https://twitter.com/niklasweimann) on [Twitter](https://twitter.com/niklasweimann)
