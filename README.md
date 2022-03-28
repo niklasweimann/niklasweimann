@@ -20,7 +20,7 @@
 <div style="float:left; width: 70%">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasweimann&show_icons=true" alt="niklasweimann" /></p>
 </div>
-<!--<div style="float: right; width: 30%">
+<div style="float: right; width: 30%">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasweimann&layout=compact&hide=html" alt="niklasweimann" /></p>
 </div>
--->
+<a href="https://app.daily.dev/niklasweimann"><img src="https://api.daily.dev/devcards/24860b23060449328f7dc84136a43fb2.png?r=ob4" width="400" alt="Niklas Weimann's Dev Card"/></a>
