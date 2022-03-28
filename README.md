@@ -24,7 +24,7 @@
 </div>
     </td>
     <td>
-      <a href="https://app.daily.dev/niklasweimann"><img src="https://api.daily.dev/devcards/24860b23060449328f7dc84136a43fb2.png?r=ob4" width="300" alt="Niklas Weimann's Dev Card"/></a>
+      <a href="https://app.daily.dev/niklasweimann"><img src="https://github.com/niklasweimann/niklasweimann/blob/master/devcard.svg" width="400" alt="Niklas Weimann's Dev Card"/></a>
     </td>
   </tr>
 </table>
