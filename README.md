@@ -1,3 +1,6 @@
+<table>
+  <tr>
+    <td>
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A passionate backend developer from Germany.</h3>
 <p align="center">
@@ -23,4 +26,9 @@
 <div style="float: right; width: 30%">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasweimann&layout=compact&hide=html" alt="niklasweimann" /></p>
 </div>
-<a href="https://app.daily.dev/niklasweimann"><img src="https://api.daily.dev/devcards/24860b23060449328f7dc84136a43fb2.png?r=ob4" width="400" alt="Niklas Weimann's Dev Card"/></a>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/niklasweimann"><img src="https://api.daily.dev/devcards/24860b23060449328f7dc84136a43fb2.png?r=ob4" width="250" alt="Niklas Weimann's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
