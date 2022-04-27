@@ -7,10 +7,6 @@
 <a href="https://instagram.com/niklas.w4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="niklas.w4" height="30" width="30" /></a>
 </p>
 
-<table>
-  <tr>
-    <td>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasweimann" alt="niklasweimann" /> </p>
 
 - 📫 How to reach me **nikweimann@gmail.com**
@@ -20,11 +16,9 @@
 - 💬 Ask me about **anything** [@niklasweimann](https://twitter.com/niklasweimann) on [Twitter](https://twitter.com/niklasweimann)
 
 <div style="float:left; width: 70%">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasweimann&show_icons=true" alt="niklasweimann" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasweimann&show_icons=true" alt="niklasweimann" /></p>
 </div>
-    </td>
-    <td>
-      <a href="https://app.daily.dev/niklasweimann"><img src="https://github.com/niklasweimann/niklasweimann/blob/master/devcard.svg" width="400" alt="Niklas Weimann's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+<!--<div style="float: right; width: 30%">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasweimann&layout=compact&hide=html" alt="niklasweimann" /></p>
+</div>
+-->
