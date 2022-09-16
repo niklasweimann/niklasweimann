@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasweimann" alt="niklasweimann" /> </p>
 
-- 📫 How to reach me **nikweimann@gmail.com**
+- 📫 How to reach me **niklas@weimann.io**
 
 - 👨‍💻 Currently working at **[LapID Service GmbH](https://www.lapid.de/)**
 
