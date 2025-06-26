@@ -13,7 +13,7 @@
 
 - 👨‍💻 Currently working at **[LapID Service GmbH](https://www.lapid.de/)**
 
-- 💬 Ask me about **anything** [@niklasweimann](https://twitter.com/niklasweimann) on [Twitter](https://twitter.com/niklasweimann)
+- 💬 Ask me about **anything** [@niklasweimann](https://mastodon.social/@niklasweimann) on [Mastodon.social](https://mastodon.social/@niklasweimann)
 
 <div style="float:left; width: 70%">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasweimann&show_icons=true" alt="niklasweimann" /></p>
